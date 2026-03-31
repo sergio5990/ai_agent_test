@@ -10,8 +10,9 @@
 - config.json - файл для конфигурации claude-code-router и qwen
 - update_qwen_token.sh - баш скрипт который обнавляет токен qwen в конфигурации claude-code-router
 
-
- Результаты работы по времени:
- - qwen_remote-qwen_code - 1-2 минут
- - qwen_remote-kilo_code - 1-2 минут
- - qwen_remote-claude-code - 1-2 минут
+Результаты работы по времени:
+- qwen_remote-qwen_code - 1-2 минут
+- qwen_remote-kilo_code - 1-2 минут
+- qwen_remote-claude_code - 1-2 минут
+- qwen_local-claude-code - 10-15 минут -  данное решение не пригодно для использования из-за своей скорости
+- qwen_local-Kilo_code - 1-2 минут
